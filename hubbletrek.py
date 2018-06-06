@@ -4,6 +4,8 @@
 # Space Nerd
 #
 # For all your screen saver needs
+#
+# (might need to pip install requests and pillow)
 
 import argparse
 import requests
